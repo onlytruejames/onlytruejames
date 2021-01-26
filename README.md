@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 I am a web developer who makes stuff in Flask (eg. @assertapp). I also do dumb stuff with @TheShadowNinjaYT, and I am staff at @AllesHQ.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
