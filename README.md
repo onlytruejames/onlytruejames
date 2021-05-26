@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer who makes stuff in Flask (eg. [@assertapp](https://www.github.com/assertapp)). I also do dumb stuff with [@TheShadowNinjaYT](https://www.github.com/TheShadowNinjaYT), and I am an admin on [@AllesHQ](https://www.github.com/AllesHQ)'s discord server.
+I am a web developer who makes stuff in Flask (eg. [@assertapp](https://www.github.com/assertapp)). I also do dumb stuff with [@TheShadowNinjaYT](https://www.github.com/TheShadowNinjaYT).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
