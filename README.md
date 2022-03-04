@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer who makes stuff in Flask (eg. [@assertapp](https://www.github.com/assertapp)). I also do dumb stuff with [@TheShadowNinjaYT](https://www.github.com/TheShadowNinjaYT).
+I'm a web developer and a game developer. For web stuff I use Flask, for game stuff I use Unity. There's more web stuff here than game stuff.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytruejames)](https://github.com/anuraghazra/github-readme-stats)
